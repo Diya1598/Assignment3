@@ -32,8 +32,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Conclusion
 Adventure Travel Partner offers users a wholesome experience for planning their trips. With its user-friendly interface and advanced features, users can easily navigate through the application, explore locations, and design their itineraries according to their preferences.
 
-## License
-This project is licensed under the [MIT License](LICENSE). The MIT License is a permissive open-source license that allows users to freely use, modify, and distribute the software with limited liability. By contributing to this project, you agree to the terms and conditions of the MIT License.
   
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
